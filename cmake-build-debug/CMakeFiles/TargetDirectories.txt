@@ -1,0 +1,3 @@
+/Users/sigridhanni/CLionProjects/C_Xam/cmake-build-debug/CMakeFiles/C_Xam.dir
+/Users/sigridhanni/CLionProjects/C_Xam/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sigridhanni/CLionProjects/C_Xam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
