@@ -44,7 +44,7 @@ int isDateValid(DATE *date, const char *pDate) {
 
 
     if (d < 1 || d > 31 || y < 1900 || y > 2100) {
-        return 0; // Invalid day or year
+        return 0; 
     }
 
     return 1;
