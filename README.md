@@ -1,7 +1,7 @@
 # C_Xam
 Taltech 2022/2023 C exam
 
-Let us have dypedef struct date{int day, char month[4]; int year; DATE;
+Let us have typedef struct date{int day, char month[4]; int year; DATE;
 typedef struct invoice{const char *pPassenger, *pDestination; DATE when;} INVOICE;
 and data structure:
 
@@ -41,4 +41,5 @@ name
 if the call is:
 int n;
 char **PassengerList=Exam(InvoiceList,7,"Guatemala City","10-Feb-2022", &n);
+
 then the result should include the names, "Mary Weaver" and "Richard Sailor".
